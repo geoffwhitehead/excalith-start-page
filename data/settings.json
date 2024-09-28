@@ -1,7 +1,7 @@
 {
-	"username": "Excalith",
+	"username": "geoff",
 	"theme": {
-		"name": "Default",
+		"name": "Catppuccin Frappé",
 		"backgroundColor": "#121317",
 		"windowColor": "#1e212b",
 		"textColor": "#e2e2e2",
@@ -16,7 +16,7 @@
 		"gray": "#97989d"
 	},
 	"wallpaper": {
-		"url": "assets/default-wallpaper.svg",
+		"url": "assets/config-interstellar(1).svg",
 		"easing": "ease-in-out",
 		"fadeIn": true,
 		"blur": false
@@ -109,164 +109,120 @@
 	"sections": {
 		"list": [
 			{
-				"title": "General",
+				"title": "Yum Admin",
 				"color": "green",
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
+						"name": "STAGING",
+						"url": "https://admin.staging.yumconnect.dev/dashboard",
 						"icon": "mdi:web"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"name": "UK PROD",
+						"url": "https://portal.prod.ph-uk.yumconnect.dev/dashboard",
+						"icon": "mdi:web"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
-					},
-					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "Peru PROD",
+						"url": "https://portal.prod.turing.yumconnect.dev/dashboard",
+						"icon": "mdi:web"
 					}
 				]
 			},
 			{
-				"title": "Dev",
-				"color": "magenta",
+				"title": "Logs",
+				"color": "green",
 				"align": "left",
 				"links": [
 					{
-						"name": "GitHub",
-						"url": "https://github.com",
-						"icon": "mdi:github"
-					},
-					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
-					},
-					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
-					},
-					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
+						"name": "Datadog",
+						"url": "https://app.datadoghq.eu/account/login/id/995d73e2-43df-11ed-bbcd-da7ad0900005",
+						"icon": "mdi:web"
 					}
 				]
 			},
 			{
-				"title": "Social",
-				"color": "cyan",
+				"title": "Jira",
+				"color": "green",
 				"align": "left",
 				"links": [
+					
 					{
-						"name": "Twitter",
-						"url": "https://twitter.com",
-						"icon": "mdi:twitter"
+						"name": "Fulfil",
+						"url": "https://pizzahut.atlassian.net/jira/software/c/projects/DVFUL/boards/824?useStoredSettings=true",
+						"icon": "mdi:web"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name": "Opsgenie",
+						"url": "https://pizzahutinternational.app.opsgenie.com/settings/schedule/detail/1b1d0ab6-fd16-4428-a781-624959af5fff",
+						"icon": "mdi:web"
 					},
 					{
-						"name": "Reddit",
-						"url": "https://reddit.com",
-						"icon": "mdi:reddit"
-					},
-					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "Confluence",
+						"url": "https://pizzahutinternational.atlassian.net/wiki/home",
+						"icon": "mdi:web"
 					}
 				]
 			},
 			{
-				"title": "Gaming",
-				"color": "red",
+				"title": "Code",
+				"color": "green",
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
+						"name": "DV Commerce",
+						"url": "https://github.com/pizzahutuk/dv-commerce",
+						"icon": "mdi:web"
 					},
 					{
-						"name": "IGN",
-						"url": "https://ign.com",
-						"icon": "mdi:currency-sign"
+						"name": "AWS",
+						"url": "https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#",
+						"icon": "mdi:web"
 					},
 					{
-						"name": "RPS",
-						"url": "https://rockpapershotgun.com/",
-						"icon": "ph:toilet-paper-bold"
-					},
-					{
-						"name": "80lv",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
+						"name": "Storybook",
+						"url": "https://storybook.phdt.io/index.html?path=/story/margherita-ds-welcome--only-story",
+						"icon": "mdi:web"
 					}
 				]
 			},
 			{
-				"title": "Science",
-				"color": "blue",
+				"title": "Admin",
+				"color": "green",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "My Pizza Hut",
+						"url": "https://www.mypizzahut.co.uk/",
+						"icon": "mdi:web"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "Bamboo HR",
+						"url": "https://pizzahutdigitalandtechnology.bamboohr.com/home/",
+						"icon": "mdi:web"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
-					},
-					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
+						"name": "Storybook",
+						"url": "https://storybook.phdt.io/index.html?path=/story/margherita-ds-welcome--only-story",
+						"icon": "mdi:web"
 					}
 				]
 			},
 			{
-				"title": "Tech",
-				"color": "yellow",
+				"title": "AI",
+				"color": "green",
 				"align": "left",
 				"links": [
 					{
-						"name": "TechCrunch",
-						"url": "https://techcrunch.com/",
-						"icon": "game-icons:techno-heart"
+						"name": "Edukate.ai",
+						"url": "https://app.edukate.ai/programmes/848/curriculum",
+						"icon": "mdi:web"
 					},
 					{
-						"name": "Verge",
-						"url": "https://www.theverge.com/",
-						"icon": "arcticons:verge"
-					},
-					{
-						"name": "It's Foss",
-						"url": "https://itsfoss.com/",
-						"icon": "ri:mastodon-fill"
-					},
-					{
-						"name": "9To5 Linux",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
+						"name": "Aptem",
+						"url": "https://cambridgespark.aptem.co.uk/pwa/dashboard",
+						"icon": "mdi:web"
 					}
 				]
 			}
