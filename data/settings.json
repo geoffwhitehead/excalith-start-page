@@ -181,6 +181,11 @@
 						"icon": "mdi:web"
 					},
 					{
+						"name": "Circle CI builds",
+						"url": "https://app.circleci.com/pipelines/github/pizzahutuk",
+						"icon": "mdi:web"
+					},
+					{
 						"name": "AWS",
 						"url": "https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#",
 						"icon": "mdi:web"
@@ -205,11 +210,6 @@
 					{
 						"name": "Bamboo HR",
 						"url": "https://pizzahutdigitalandtechnology.bamboohr.com/home/",
-						"icon": "mdi:web"
-					},
-					{
-						"name": "Storybook",
-						"url": "https://storybook.phdt.io/index.html?path=/story/margherita-ds-welcome--only-story",
 						"icon": "mdi:web"
 					}
 				]
