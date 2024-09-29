@@ -109,6 +109,33 @@
 	"sections": {
 		"list": [
 			{
+				"title": "Live",
+				"color": "green",
+				"align": "left",
+				"links": [
+					{
+						"name": "UK Staging",
+						"url": "https://uk.maverick.staging.phdt.io/order/deals",
+						"icon": "mdi:web"
+					},
+					{
+						"name": "UK Prod",	
+						"url": "https://uk.maverick.prod.phdt.io/order/deals",
+						"icon": "mdi:web"
+					},
+					{
+						"name": "Peru Staging",
+						"url": "https://pe.maverick.staging.phdt.io/order/combos",
+						"icon": "mdi:web"
+					},
+					{
+						"name": "Peru Prod",
+						"url": "https://pe.maverick.prod.phdt.io/",
+						"icon": "mdi:web"
+					}
+				]
+			},
+			{
 				"title": "Yum Admin",
 				"color": "green",
 				"align": "left",
