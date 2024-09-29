@@ -116,22 +116,22 @@
 					{
 						"name": "UK Staging",
 						"url": "https://uk.maverick.staging.phdt.io/order/deals",
-						"icon": "mdi:web"
+						"icon": "mdi:pizza"
 					},
 					{
 						"name": "UK Prod",	
 						"url": "https://uk.maverick.prod.phdt.io/order/deals",
-						"icon": "mdi:web"
+						"icon": "mdi:pizza"
 					},
 					{
 						"name": "Peru Staging",
 						"url": "https://pe.maverick.staging.phdt.io/order/combos",
-						"icon": "mdi:web"
+						"icon": "mdi:pizza"
 					},
 					{
 						"name": "Peru Prod",
 						"url": "https://pe.maverick.prod.phdt.io/",
-						"icon": "mdi:web"
+						"icon": "mdi:pizza"
 					}
 				]
 			},
@@ -170,7 +170,12 @@
 					{
 						"name": "Datadog",
 						"url": "https://app.datadoghq.eu/account/login/id/995d73e2-43df-11ed-bbcd-da7ad0900005",
-						"icon": "mdi:web"
+						"icon": "mdi:dog"
+					},
+					{
+						"name": "Circle CI builds",
+						"url": "https://app.circleci.com/pipelines/github/pizzahutuk",
+						"icon": "mdi:circle"
 					}
 				]
 			},
@@ -181,19 +186,19 @@
 				"links": [
 					
 					{
-						"name": "Fulfil",
+						"name": "Board Fulfil",
 						"url": "https://pizzahut.atlassian.net/jira/software/c/projects/DVFUL/boards/824?useStoredSettings=true",
-						"icon": "mdi:web"
+						"icon": "mdi:jira"
 					},
 					{
 						"name": "Opsgenie",
 						"url": "https://pizzahutinternational.app.opsgenie.com/settings/schedule/detail/1b1d0ab6-fd16-4428-a781-624959af5fff",
-						"icon": "mdi:web"
+						"icon": "mdi:jira"
 					},
 					{
 						"name": "Confluence",
 						"url": "https://pizzahutinternational.atlassian.net/wiki/home",
-						"icon": "mdi:web"
+						"icon": "mdi:jira"
 					}
 				]
 			},
@@ -205,22 +210,17 @@
 					{
 						"name": "DV Commerce",
 						"url": "https://github.com/pizzahutuk/dv-commerce",
-						"icon": "mdi:web"
-					},
-					{
-						"name": "Circle CI builds",
-						"url": "https://app.circleci.com/pipelines/github/pizzahutuk",
-						"icon": "mdi:web"
+						"icon": "mdi:github"
 					},
 					{
 						"name": "AWS",
 						"url": "https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#",
-						"icon": "mdi:web"
+						"icon": "mdi:aws"
 					},
 					{
 						"name": "Storybook",
 						"url": "https://storybook.phdt.io/index.html?path=/story/margherita-ds-welcome--only-story",
-						"icon": "mdi:web"
+						"icon": "mdi:book-open-page-variant"
 					}
 				]
 			},
@@ -232,7 +232,7 @@
 					{
 						"name": "My Pizza Hut",
 						"url": "https://www.mypizzahut.co.uk/",
-						"icon": "mdi:web"
+						"icon": "mdi:pizza"
 					},
 					{
 						"name": "Bamboo HR",
@@ -255,6 +255,23 @@
 						"name": "Aptem",
 						"url": "https://cambridgespark.aptem.co.uk/pwa/dashboard",
 						"icon": "mdi:web"
+					}
+				]
+			},
+			{
+				"title": "Crypto",
+				"color": "green",
+				"align": "left",
+				"links": [
+					{
+						"name": "Coinbase",
+						"url": "https://www.coinbase.com/home",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "CoinMarketCap",
+						"url": "https://coinmarketcap.com/",
+						"icon": "mdi:bitcoin"
 					}
 				]
 			}
