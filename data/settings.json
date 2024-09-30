@@ -245,7 +245,7 @@
 						"icon": "mdi:jira"
 					},
 					{
-						"name": "Cybersource Test Cards",
+						"name": "Cybersource Cards",
 						"url": "https://developer.cybersource.com/docs/cybs/en-us/payer-authentication/developer/all/so/payer-auth/pa-testing-intro/pa-testing-3ds-2x-intro.html",
 						"icon": "mdi:credit-card"
 					}
