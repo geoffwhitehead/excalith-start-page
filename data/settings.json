@@ -154,11 +154,6 @@
 						"name": "Peru Prod",
 						"url": "https://portal.prod.turing.yumconnect.dev/dashboard",
 						"icon": "mdi:web"
-					},
-					{
-						"name": "Yum GQL Docs",
-						"url": "https://yumkb.yumconnect.dev/",
-						"icon": "mdi:web"
 					}
 				]
 			},
@@ -194,11 +189,6 @@
 						"name": "Opsgenie",
 						"url": "https://pizzahutinternational.app.opsgenie.com/settings/schedule/detail/1b1d0ab6-fd16-4428-a781-624959af5fff",
 						"icon": "mdi:jira"
-					},
-					{
-						"name": "Confluence",
-						"url": "https://pizzahutinternational.atlassian.net/wiki/home",
-						"icon": "mdi:jira"
 					}
 				]
 			},
@@ -216,11 +206,33 @@
 						"name": "AWS",
 						"url": "https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#",
 						"icon": "mdi:aws"
+					}
+				]
+			},
+			{
+				"title": "Docs",
+				"color": "green",
+				"align": "left",
+				"links": [
+					{
+						"name": "Yum GQL Docs",
+						"url": "https://yumkb.yumconnect.dev/",
+						"icon": "mdi:book-open-page-variant"
+					},
+					{
+						"name": "Maverick",
+						"url": "https://pizzahutuk.github.io/maverick-ui-docs/docs/intro",
+						"icon": "mdi:book-open-page-variant"
 					},
 					{
 						"name": "Storybook",
 						"url": "https://storybook.phdt.io/index.html?path=/story/margherita-ds-welcome--only-story",
 						"icon": "mdi:book-open-page-variant"
+					},
+					{
+						"name": "Confluence",
+						"url": "https://pizzahutinternational.atlassian.net/wiki/home",
+						"icon": "mdi:jira"
 					}
 				]
 			},
