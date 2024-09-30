@@ -203,6 +203,16 @@
 						"icon": "mdi:github"
 					},
 					{
+						"name": "Pull Requests",
+						"url": "https://github.com/pizzahutuk/dv-commerce/pulls/assigned/geoffwhitehead",
+						"icon": "mdi:github"
+					},
+					{
+						"name": "Gitlab Payments SDK",
+						"url": "https://gitlab.com/yumbrands/yumdev/yc-commerce/payments-frontend-sdk",
+						"icon": "mdi:gitlab"
+					},
+					{
 						"name": "AWS",
 						"url": "https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#",
 						"icon": "mdi:aws"
@@ -233,6 +243,11 @@
 						"name": "Confluence",
 						"url": "https://pizzahutinternational.atlassian.net/wiki/home",
 						"icon": "mdi:jira"
+					},
+					{
+						"name": "Cybersource Test Cards",
+						"url": "https://developer.cybersource.com/docs/cybs/en-us/payer-authentication/developer/all/so/payer-auth/pa-testing-intro/pa-testing-3ds-2x-intro.html",
+						"icon": "mdi:credit-card"
 					}
 				]
 			},
