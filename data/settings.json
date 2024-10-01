@@ -168,6 +168,11 @@
 						"icon": "mdi:dog"
 					},
 					{
+						"name": "Datadog MVK Summary",
+						"url": "https://app.datadoghq.eu/dashboard/nbc-j8n-jbp/maverick-summary-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1727180656737&to_ts=1727785456737&live=true",
+						"icon": "mdi:dog"
+					},
+					{
 						"name": "Circle CI builds",
 						"url": "https://app.circleci.com/pipelines/github/pizzahutuk",
 						"icon": "mdi:circle"
