@@ -208,19 +208,19 @@
 						"icon": "mdi:github"
 					},
 					{
-						"name": "PR's Assigned",
+						"name": "Assigned PR's",
 						"url": "https://github.com/pizzahutuk/dv-commerce/pulls/assigned/geoffwhitehead",
 						"icon": "mdi:github"
 					},
 
 					{
-						"name": "PR's Reviewed",
+						"name": "Reviewed PR's",
 						"url": "https://github.com/pizzahutuk/dv-commerce/pulls?q=is%3Apr+is%3Aopen+reviewed-by%3A%40me",
 						"icon": "mdi:github"
 					},
 
 					{
-						"name": "PR's Requested",
+						"name": "Requested PR's",
 						"url": "https://github.com/pizzahutuk/dv-commerce/pulls/review-requested/@me",
 						"icon": "mdi:github"
 					}
