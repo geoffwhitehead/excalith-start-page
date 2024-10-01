@@ -186,7 +186,7 @@
 						"icon": "mdi:jira"
 					},
 					{
-						"name": "Board France Integration",
+						"name": "Board France Accel",
 						"url": "https://pizzahut.atlassian.net/jira/software/c/projects/DCI/boards/816",
 						"icon": "mdi:jira"
 					},
@@ -198,7 +198,7 @@
 				]
 			},
 			{
-				"title": "Code",
+				"title": "Github",
 				"color": "green",
 				"align": "left",
 				"links": [
@@ -208,10 +208,29 @@
 						"icon": "mdi:github"
 					},
 					{
-						"name": "Pull Requests",
+						"name": "PR's Assigned",
 						"url": "https://github.com/pizzahutuk/dv-commerce/pulls/assigned/geoffwhitehead",
 						"icon": "mdi:github"
 					},
+
+					{
+						"name": "PR's Reviewed",
+						"url": "https://github.com/pizzahutuk/dv-commerce/pulls?q=is%3Apr+is%3Aopen+reviewed-by%3A%40me",
+						"icon": "mdi:github"
+					},
+
+					{
+						"name": "PR's Requested",
+						"url": "https://github.com/pizzahutuk/dv-commerce/pulls/review-requested/@me",
+						"icon": "mdi:github"
+					}
+				]
+			},
+			{
+				"title": "Code",
+				"color": "green",
+				"align": "left",
+				"links": [
 					{
 						"name": "Gitlab Payments SDK",
 						"url": "https://gitlab.com/yumbrands/yumdev/yc-commerce/payments-frontend-sdk",
@@ -227,7 +246,6 @@
 						"url": "https://contentful.yum.com",
 						"icon": "mdi:web"
 					}
-					
 				]
 			},
 			{
