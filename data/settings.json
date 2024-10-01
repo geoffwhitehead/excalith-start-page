@@ -250,6 +250,11 @@
 						"name": "Contentful",
 						"url": "https://contentful.yum.com",
 						"icon": "mdi:web"
+					},
+					{
+						"name": "Figma",
+						"url": "https://www.figma.com/files/821413712008139754/recents-and-sharing/recently-viewed?fuid=1352679144173064184",
+						"icon": "mdi:web"
 					}
 				]
 			},
