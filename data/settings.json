@@ -186,6 +186,11 @@
 						"icon": "mdi:jira"
 					},
 					{
+						"name": "Board France Integration",
+						"url": "https://pizzahut.atlassian.net/jira/software/c/projects/DCI/boards/816",
+						"icon": "mdi:jira"
+					},
+					{
 						"name": "Opsgenie",
 						"url": "https://pizzahutinternational.app.opsgenie.com/settings/schedule/detail/1b1d0ab6-fd16-4428-a781-624959af5fff",
 						"icon": "mdi:jira"
