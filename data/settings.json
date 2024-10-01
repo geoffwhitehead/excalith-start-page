@@ -216,7 +216,13 @@
 						"name": "AWS",
 						"url": "https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#",
 						"icon": "mdi:aws"
+					},
+					{
+						"name": "Contentful",
+						"url": "https://contentful.yum.com",
+						"icon": "mdi:web"
 					}
+					
 				]
 			},
 			{
