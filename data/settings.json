@@ -291,6 +291,30 @@
 				]
 			},
 			{
+				"title": "Support",
+				"color": "green",
+				"align": "left",
+				"links": [
+					{
+						"name": "Rolling back",
+						"url": "https://pizzahut.atlassian.net/wiki/spaces/DC/pages/5832904998/Rolling+back+to+given+version",
+						"icon": "mdi:web"
+					}
+				]
+			},
+			{
+				"title": "Graphs",
+				"color": "green",
+				"align": "left",
+				"links": [
+					{
+						"name": "Storefront Staging",
+						"url": "https://studio.apollographql.com/graph/Yum-Platform-Storefront/variant/staging/home",
+						"icon": "mdi:web"
+					}
+				]
+			},
+			{
 				"title": "Admin",
 				"color": "green",
 				"align": "left",
