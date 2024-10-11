@@ -345,6 +345,11 @@
 						"name": "Aptem",
 						"url": "https://cambridgespark.aptem.co.uk/pwa/dashboard",
 						"icon": "mdi:web"
+					},
+					{
+						"name": "OTJ Log",
+						"url": "https://docs.google.com/spreadsheets/d/1BmOaaRaDCKa5OFkGlnCHZl4kyvHVyaZE/r/edit/edit?gid=1337997638#gid=1337997638",
+						"icon": "mdi:web"
 					}
 				]
 			},
