@@ -184,7 +184,11 @@
 				"color": "green",
 				"align": "left",
 				"links": [
-					
+					{
+						"name": "Board Core 1",
+						"url": "https://pizzahut.atlassian.net/jira/software/c/projects/MAV/boards/1406",
+						"icon": "mdi:jira"
+					},
 					{
 						"name": "Board Fulfil",
 						"url": "https://pizzahut.atlassian.net/jira/software/c/projects/DVFUL/boards/824?useStoredSettings=true",
