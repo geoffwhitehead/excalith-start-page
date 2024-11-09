@@ -376,6 +376,16 @@
 						"name": "CoinMarketCap",
 						"url": "https://coinmarketcap.com/",
 						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "TwitterScore",
+						"url": "https://twitterscore.io/?i=17479",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "Defi Llama",
+						"url": "https://defillama.com/",
+						"icon": "mdi:bitcoin"
 					}
 				]
 			}
