@@ -386,7 +386,33 @@
 						"name": "Defi Llama",
 						"url": "https://defillama.com/",
 						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "ViewStats Altcoin Daily",
+						"url": "https://www.viewstats.com/@altcoindaily/channelytics",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "CryptoRank OKX Jumpstart",
+						"url": "https://cryptorank.io/fundraising-platforms/okx-jumpstart",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "Nansen",
+						"url": "https://app.nansen.ai/",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "DexCheck",
+						"url": "https://dexcheck.ai/app",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "CRYPTO TOTAL CAP EXCL BTC & ETH",
+						"url": "https://www.tradingview.com/chart/WYWVdVNl/?symbol=CRYPTOCAP%3ATOTAL3",
+						"icon": "mdi:bitcoin"
 					}
+					
 				]
 			}
 		]
