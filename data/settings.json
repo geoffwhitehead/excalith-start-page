@@ -379,6 +379,11 @@
 						"icon": "mdi:bitcoin"
 					},
 					{
+						"name": "Uniswap",
+						"url": "https://app.uniswap.org/swap",
+						"icon": "mdi:bitcoin"
+					},
+					{
 						"name": "Binance",
 						"url": "https://www.binance.com/en-GB",
 						"icon": "mdi:bitcoin"
@@ -401,7 +406,7 @@
 				]
 			},
 			{
-				"title": "Crypto Analysis I",
+				"title": "Analysis I",
 				"color": "green",
 				"align": "left",
 				"links": [
@@ -421,19 +426,19 @@
 						"icon": "mdi:bitcoin"
 					},
 					{
-						"name": "ViewStats Altcoin Daily",
+						"name": "ViewStats Alt Daily",
 						"url": "https://www.viewstats.com/@altcoindaily/channelytics",
 						"icon": "mdi:bitcoin"
 					}
 				]
 			},
 			{
-				"title": "Crypto Analysis II",
+				"title": "Analysis II",
 				"color": "green",
 				"align": "left",
 				"links": [
 					{
-						"name": "CryptoRank OKX Jumpstart",
+						"name": "CryptoRank OKX",
 						"url": "https://cryptorank.io/fundraising-platforms/okx-jumpstart",
 						"icon": "mdi:bitcoin"
 					},
@@ -443,7 +448,7 @@
 						"icon": "mdi:bitcoin"
 					},
 					{
-						"name": "CRYPTO TOTAL CAP EXCL BTC & ETH",
+						"name": "Cap excl BTC ETH",
 						"url": "https://www.tradingview.com/chart/WYWVdVNl/?symbol=CRYPTOCAP%3ATOTAL3",
 						"icon": "mdi:bitcoin"
 					},
