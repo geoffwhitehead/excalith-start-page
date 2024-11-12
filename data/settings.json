@@ -363,7 +363,13 @@
 				]
 			},
 			{
-				"title": "Crypto",
+				"title": "",
+				"color": "green",
+				"align": "left",
+				"links": []
+			},
+			{
+				"title": "Crypto Exc",
 				"color": "green",
 				"align": "left",
 				"links": [
@@ -372,6 +378,33 @@
 						"url": "https://www.coinbase.com/home",
 						"icon": "mdi:bitcoin"
 					},
+					{
+						"name": "Binance",
+						"url": "https://www.binance.com/en-GB",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "Wallet",
+						"url": "https://wallet.coinbase.com/",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "DexCheck",
+						"url": "https://dexcheck.ai/app",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "Crypto Portfolio",
+						"url": "https://docs.google.com/spreadsheets/d/1yBAtEmWvbHBGMoycpRcjPlPY3Prjm3CvIXeq8pjYUfI/edit?gid=0#gid=0",
+						"icon": "mdi:bitcoin"
+					}
+				]
+			},
+			{
+				"title": "Crypto Analysis I",
+				"color": "green",
+				"align": "left",
+				"links": [
 					{
 						"name": "CoinMarketCap",
 						"url": "https://coinmarketcap.com/",
@@ -391,7 +424,14 @@
 						"name": "ViewStats Altcoin Daily",
 						"url": "https://www.viewstats.com/@altcoindaily/channelytics",
 						"icon": "mdi:bitcoin"
-					},
+					}
+				]
+			},
+			{
+				"title": "Crypto Analysis II",
+				"color": "green",
+				"align": "left",
+				"links": [
 					{
 						"name": "CryptoRank OKX Jumpstart",
 						"url": "https://cryptorank.io/fundraising-platforms/okx-jumpstart",
@@ -403,16 +443,15 @@
 						"icon": "mdi:bitcoin"
 					},
 					{
-						"name": "DexCheck",
-						"url": "https://dexcheck.ai/app",
-						"icon": "mdi:bitcoin"
-					},
-					{
 						"name": "CRYPTO TOTAL CAP EXCL BTC & ETH",
 						"url": "https://www.tradingview.com/chart/WYWVdVNl/?symbol=CRYPTOCAP%3ATOTAL3",
 						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "Token unlocks",
+						"url": "https://token.unlocks.app/",
+						"icon": "mdi:bitcoin"
 					}
-					
 				]
 			}
 		]
