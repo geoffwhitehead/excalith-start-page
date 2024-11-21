@@ -158,7 +158,7 @@
 				]
 			},
 			{
-				"title": "Logs",
+				"title": "Logs / Data",
 				"color": "green",
 				"align": "left",
 				"links": [
@@ -176,6 +176,12 @@
 						"name": "Circle CI builds",
 						"url": "https://app.circleci.com/pipelines/github/pizzahutuk",
 						"icon": "mdi:circle"
+					},
+
+					{
+						"name": "Snowflake",
+						"url": "https://app.snowflake.com/pdeifoe/ph_uk_aws_eu_irl/#/homepage",
+						"icon": "mdi:snowflake"
 					}
 				]
 			},
@@ -263,7 +269,7 @@
 				]
 			},
 			{
-				"title": "Docs",
+				"title": "Docs I",
 				"color": "green",
 				"align": "left",
 				"links": [
@@ -286,6 +292,18 @@
 						"name": "Confluence",
 						"url": "https://pizzahutinternational.atlassian.net/wiki/home",
 						"icon": "mdi:jira"
+					}
+				]
+			},
+			{
+				"title": "Docs II",
+				"color": "green",
+				"align": "left",
+				"links": [
+					{
+						"name": "Storefront Staging",
+						"url": "https://studio.apollographql.com/graph/Yum-Platform-Storefront/variant/staging/home",
+						"icon": "mdi:web"
 					},
 					{
 						"name": "Cybersource Cards",
@@ -307,18 +325,6 @@
 					{
 						"name": "Rolling back",
 						"url": "https://pizzahut.atlassian.net/wiki/spaces/DC/pages/5832904998/Rolling+back+to+given+version",
-						"icon": "mdi:web"
-					}
-				]
-			},
-			{
-				"title": "Graphs",
-				"color": "green",
-				"align": "left",
-				"links": [
-					{
-						"name": "Storefront Staging",
-						"url": "https://studio.apollographql.com/graph/Yum-Platform-Storefront/variant/staging/home",
 						"icon": "mdi:web"
 					}
 				]
@@ -363,10 +369,22 @@
 				]
 			},
 			{
-				"title": "",
+				"title": "Youtube Learning",
 				"color": "green",
 				"align": "left",
-				"links": []
+				"links": [
+					{
+						"name": "The coding train",
+						"url": "https://www.youtube.com/@TheCodingTrain/playlists",
+						"icon": "mdi:web"
+					},
+					{
+						"name": "Andrej Karpathy",
+						"url": "https://www.youtube.com/@AndrejKarpathy",
+						"icon": "mdi:web"
+					}
+					
+				]
 			},
 			{
 				"title": "Crypto Exc",
@@ -376,6 +394,11 @@
 					{
 						"name": "Coinbase",
 						"url": "https://www.coinbase.com/home",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "Kucoin",
+						"url": "https://www.kucoin.com/",
 						"icon": "mdi:bitcoin"
 					},
 					{
@@ -394,12 +417,7 @@
 						"icon": "mdi:bitcoin"
 					},
 					{
-						"name": "DexCheck",
-						"url": "https://dexcheck.ai/app",
-						"icon": "mdi:bitcoin"
-					},
-					{
-						"name": "Crypto Portfolio",
+						"name": "Portfolio",
 						"url": "https://docs.google.com/spreadsheets/d/1yBAtEmWvbHBGMoycpRcjPlPY3Prjm3CvIXeq8pjYUfI/edit?gid=0#gid=0",
 						"icon": "mdi:bitcoin"
 					}
@@ -413,6 +431,11 @@
 					{
 						"name": "CoinMarketCap",
 						"url": "https://coinmarketcap.com/",
+						"icon": "mdi:bitcoin"
+					},
+					{
+						"name": "DexCheck",
+						"url": "https://dexcheck.ai/app",
 						"icon": "mdi:bitcoin"
 					},
 					{
