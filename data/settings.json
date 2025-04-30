@@ -151,6 +151,11 @@
 						"icon": "mdi:web"
 					},
 					{
+						"name": "CA Prod",
+						"url": "https://portal.prod.ph-ca.yumconnect.dev/dashboard",
+						"icon": "mdi:web"
+					},
+					{
 						"name": "Peru Prod",
 						"url": "https://portal.prod.turing.yumconnect.dev/dashboard",
 						"icon": "mdi:web"
